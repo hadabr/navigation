@@ -13,6 +13,7 @@
 **Photoshop + React Native + ExpressJS**    
 > **Purpose**: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit  
 > **Technical insight**: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit  
+
 [![](https://raw.githubusercontent.com/hadabr/navigation/master/assets/preview.png)](https://github.com/hadabr/smart-car-accident-report-app/tree/master/preview)   
 
 ### [Dyatlov Pass Story](https://github.com/hadabr/dyatlov-pass-tour)   
@@ -24,5 +25,6 @@
 **Photoshop + React + VibrantJS**  
 > **Purpose**: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit  
 > **Technical insight**: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit  
+
 [![](https://raw.githubusercontent.com/hadabr/navigation/master/assets/preview.png)](https://github.com/hadabr/dyatlov-pass-tour/tree/master/preview)  
 
