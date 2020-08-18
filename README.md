@@ -2,7 +2,7 @@
   <img src="./assets/header.png" title="header">  
 </p>
 <p align="center"> 
-  <img src="./assets/subheader.png" title="subheader">  
+  <img width= "70px" src="./assets/subheader.png" title="subheader">  
 </p>
 
 #### Smart Report App  
