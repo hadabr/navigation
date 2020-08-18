@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="600px" src="./assets/header.png" title="header">
+  <img src="./assets/header.png" title="header">
 </p>
 
 #### Smart Report App  
