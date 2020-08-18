@@ -10,9 +10,10 @@
 [![Test Coverage](https://api.codeclimate.com/v1/badges/ec7ebefe63609984cb5c/test_coverage)](https://codeclimate.com/github/MartinHeinz/go-project-blueprint/test_coverage)  
   
 [**[** LIVE version **]**](https://github.com/hadabr/smart-car-accident-report-app)  
-> **Photoshop + React Native + ExpressJS**  
-> User-friendly mobile app for 1) composing and 2) resending to police and insurance company a car accident report  
-
+<%= octicon("gear") %> **Photoshop + React Native + ExpressJS**  
+> **Description**: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit    
+> **Purpose**: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit  
+> **Technical insight**: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit  
 <details>
     <summary>Preview</summary>
     <img src="https://raw.githubusercontent.com/hadabr/smart-car-accident-report-app/master/wireframe_motorai12.png" title="subheader">  
@@ -25,8 +26,10 @@
 [![Test Coverage](https://api.codeclimate.com/v1/badges/ec7ebefe63609984cb5c/test_coverage)](https://codeclimate.com/github/MartinHeinz/go-project-blueprint/test_coverage)  
   
 [**[** LIVE version **]**](https://github.com/hadabr/dyatlov-pass-tour)     
-> **Photoshop + React + VibrantJS**  
-> Some description  
+<%= octicon("gear") %> **Photoshop + React + VibrantJS**  
+> **Description**: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit    
+> **Purpose**: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit  
+> **Technical insight**: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit  
 
 <details>
     <summary>Preview</summary>
