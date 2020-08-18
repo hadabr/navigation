@@ -13,11 +13,7 @@
 **Photoshop + React Native + ExpressJS**    
 > **Purpose**: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit  
 > **Technical insight**: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit  
-<details>
-    <summary><img src="https://raw.githubusercontent.com/hadabr/navigation/master/assets/preview.png" /></summary>
-    <img src="https://raw.githubusercontent.com/hadabr/smart-car-accident-report-app/master/wireframe_motorai12.png" title="subheader">  
-</details>  
-.  
+[![](https://raw.githubusercontent.com/hadabr/navigation/master/assets/preview.png)](https://github.com/hadabr/smart-car-accident-report-app/tree/master/preview)   
 
 ### [Dyatlov Pass Story](https://github.com/hadabr/dyatlov-pass-tour)   
 [![Build Status](https://travis-ci.com/MartinHeinz/go-project-blueprint.svg?branch=master)](https://travis-ci.com/MartinHeinz/go-project-blueprint)
@@ -28,10 +24,5 @@
 **Photoshop + React + VibrantJS**  
 > **Purpose**: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit  
 > **Technical insight**: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit  
-
-<details>
-    <summary>Preview</summary>
-    <img src="https://raw.githubusercontent.com/hadabr/dyatlov-pass-tour/master/1398024765-7237a1d0e61f03fe0dfca1c0c376fe4a.jpg" title="subheader">  
-</details>   
-.  
+[![](https://raw.githubusercontent.com/hadabr/navigation/master/assets/preview.png)](https://github.com/hadabr/dyatlov-pass-tour/tree/master/preview)  
 
