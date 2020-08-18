@@ -1,4 +1,6 @@
-[![Header](./assets/header.png)]
+<p align="center">
+  <img width="600px" src="./assets/header.png" title="header">
+</p>
 
 #### Smart Report App  
 [![Build Status](https://travis-ci.com/MartinHeinz/go-project-blueprint.svg?branch=master)](https://travis-ci.com/MartinHeinz/go-project-blueprint)
