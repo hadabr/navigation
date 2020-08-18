@@ -1,6 +1,7 @@
 <p align="center">
   <img src="./assets/header.png" title="header">  
-  &nbsp;  
+</p>
+<p align="center"> 
   <img src="./assets/subheader.png" title="subheader">  
 </p>
 
