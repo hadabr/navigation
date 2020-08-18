@@ -10,13 +10,12 @@
 [![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=MartinHeinz_go-project-blueprint&metric=sqale_rating)](https://sonarcloud.io/dashboard?id=MartinHeinz_go-project-blueprint)
 [![Test Coverage](https://api.codeclimate.com/v1/badges/ec7ebefe63609984cb5c/test_coverage)](https://codeclimate.com/github/MartinHeinz/go-project-blueprint/test_coverage)  
 
-**Photoshop + React Native + ExpressJS**  
-
+> **Photoshop + React Native + ExpressJS**  
 > User-friendly mobile app for 1) composing and 2) resending to police and insurance company a car accident report  
 
 <details>
-    <summary>Define damage type page preview</summary>
-    <img width= "70px" src="https://raw.githubusercontent.com/hadabr/smart-car-accident-report-app/master/wireframe_motorai12.png" title="subheader">  
+    <summary>Preview</summary>
+    <img src="https://raw.githubusercontent.com/hadabr/smart-car-accident-report-app/master/wireframe_motorai12.png" title="subheader">  
 </details>  
 
 #### [Dyatlov Pass Story](https://github.com/hadabr/dyatlov-pass-tour)
@@ -24,12 +23,12 @@
 [![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=MartinHeinz_go-project-blueprint&metric=sqale_rating)](https://sonarcloud.io/dashboard?id=MartinHeinz_go-project-blueprint)
 [![Test Coverage](https://api.codeclimate.com/v1/badges/ec7ebefe63609984cb5c/test_coverage)](https://codeclimate.com/github/MartinHeinz/go-project-blueprint/test_coverage)  
 
-**Photoshop + React + VibrantJS**  
+> **Photoshop + React + VibrantJS**  
 > Some description  
 
 <details>
-    <summary>Playlits page preview</summary>
-    <img width= "70px" src="https://raw.githubusercontent.com/hadabr/dyatlov-pass-tour/master/1398024765-7237a1d0e61f03fe0dfca1c0c376fe4a.jpg" title="subheader">  
+    <summary>Preview</summary>
+    <img src="https://raw.githubusercontent.com/hadabr/dyatlov-pass-tour/master/1398024765-7237a1d0e61f03fe0dfca1c0c376fe4a.jpg" title="subheader">  
 </details>   
 
 
