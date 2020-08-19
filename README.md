@@ -1,7 +1,6 @@
 <p align="center">
   <img src="./assets/header.png" title="header">  
 </p>
-&nbsp;  
 
 ### [Smart Car Accident Report App](https://github.com/hadabr/smart-car-accident-report-app) [ repo ]
 [![Build Status](https://travis-ci.com/MartinHeinz/go-project-blueprint.svg?branch=master)](https://travis-ci.com/MartinHeinz/go-project-blueprint)
