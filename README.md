@@ -10,7 +10,7 @@
 [![Test Coverage](https://api.codeclimate.com/v1/badges/ec7ebefe63609984cb5c/test_coverage)](https://codeclimate.com/github/MartinHeinz/go-project-blueprint/test_coverage)  
   
 **Toolset**: Photoshop + React Native + ExpressJS    
-[![](https://raw.githubusercontent.com/hadabr/navigation/master/assets/LIVEversion.png)](https://github.com/hadabr/smart-car-accident-report-app/tree/master/preview)   
+[![](https://raw.githubusercontent.com/hadabr/navigation/master/assets/LIVE.png)](https://github.com/hadabr/smart-car-accident-report-app/tree/master/preview)   
 > Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit  
 <details>
   <summary> preview </summary>
@@ -23,7 +23,7 @@
 [![Test Coverage](https://api.codeclimate.com/v1/badges/ec7ebefe63609984cb5c/test_coverage)](https://codeclimate.com/github/MartinHeinz/go-project-blueprint/test_coverage)  
       
 **Toolset**: Photoshop + React + VibrantJS  
-[![](https://raw.githubusercontent.com/hadabr/navigation/master/assets/LIVEversion.png)](https://github.com/hadabr/dyatlov-pass-tour/tree/master/preview)  
+[![](https://raw.githubusercontent.com/hadabr/navigation/master/assets/LIVE.png)](https://github.com/hadabr/dyatlov-pass-tour/tree/master/preview)  
 > Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit  
 <details>
   <summary> preview </summary>
