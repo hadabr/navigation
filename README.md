@@ -11,7 +11,7 @@
 
 [<img src="https://raw.githubusercontent.com/hadabr/navigation/master/assets/LIVE.png" width="100" />](https://github.com/hadabr/smart-car-accident-report-app/tree/master/preview)  
 <details>
-  <summary> preview </summary>
+  <summary> > preview </summary>
     <img src="https://raw.githubusercontent.com/hadabr/smart-car-accident-report-app/master/wireframe_motorai12.png" title="subheader">  
 </details>  
 
@@ -24,7 +24,7 @@
 
 [<img src="https://raw.githubusercontent.com/hadabr/navigation/master/assets/LIVE.png" width="100" />](https://github.com/hadabr/smart-car-accident-report-app/tree/master/preview)  
 <details>
-  <summary> preview </summary>
+  <summary> > preview </summary>
     <img src="https://raw.githubusercontent.com/hadabr/smart-car-accident-report-app/master/wireframe_motorai12.png" title="subheader">  
 </details>  
 
