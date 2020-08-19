@@ -2,7 +2,7 @@
   <img src="./assets/header.png" title="header">  
 </p>
 
-### [Smart Car Accident Report App](https://github.com/hadabr/smart-car-accident-report-app) [ repo ]
+### [Smart Car Accident Report App](https://github.com/hadabr/smart-car-accident-report-app) [repo]
 [![Build Status](https://travis-ci.com/MartinHeinz/go-project-blueprint.svg?branch=master)](https://travis-ci.com/MartinHeinz/go-project-blueprint)
 [![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=MartinHeinz_go-project-blueprint&metric=sqale_rating)](https://sonarcloud.io/dashboard?id=MartinHeinz_go-project-blueprint)  
   
@@ -15,7 +15,7 @@
     <img src="https://raw.githubusercontent.com/hadabr/smart-car-accident-report-app/master/wireframe_motorai12.png" title="subheader">  
 </details>  
 
-### [Dyatlov Pass Story](https://github.com/hadabr/dyatlov-pass-tour) [ repo ] 
+### [Dyatlov Pass Story](https://github.com/hadabr/dyatlov-pass-tour) [repo] 
 [![Build Status](https://travis-ci.com/MartinHeinz/go-project-blueprint.svg?branch=master)](https://travis-ci.com/MartinHeinz/go-project-blueprint)
 [![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=MartinHeinz_go-project-blueprint&metric=sqale_rating)](https://sonarcloud.io/dashboard?id=MartinHeinz_go-project-blueprint)   
       
