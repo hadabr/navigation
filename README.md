@@ -6,7 +6,7 @@
   incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam<br/>
 </p> 
 
-### [Smart Car Accident Report App](https://github.com/hadabr/smart-car-accident-report-app) [repo]
+### Smart Car Accident Report App [[repo]](https://github.com/hadabr/smart-car-accident-report-app)
 [![Build Status](https://travis-ci.com/MartinHeinz/go-project-blueprint.svg?branch=master)](https://travis-ci.com/MartinHeinz/go-project-blueprint)
 [![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=MartinHeinz_go-project-blueprint&metric=sqale_rating)](https://sonarcloud.io/dashboard?id=MartinHeinz_go-project-blueprint)  
   
