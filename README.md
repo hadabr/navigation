@@ -5,8 +5,7 @@
   <b>Lorem</b> ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor<br/>
   incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud<br/>
   ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor   
-</p>
-&nbsp;  
+</p> 
 
 ### [Smart Car Accident Report App](https://github.com/hadabr/smart-car-accident-report-app) [repo]
 [![Build Status](https://travis-ci.com/MartinHeinz/go-project-blueprint.svg?branch=master)](https://travis-ci.com/MartinHeinz/go-project-blueprint)
